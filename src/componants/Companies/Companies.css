@@ -1,0 +1,7 @@
+.c-container{
+    justify-content: center;
+    gap: 1rpm;
+}
+.c-container>img{
+     width: 9rem;
+}
