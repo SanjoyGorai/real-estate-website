@@ -5,6 +5,9 @@ import './App.css'
 import Companies from './componants/Companies/Companies'
 import Residencies from './componants/Residencies/Residencies'
 import Value from './componants/Value/Value'
+import Contact from './componants/Contact/Contact'
+import GetStarted from './componants/GetStarted/GetStarted'
+import Footer from './componants/Footer/Footer'
 
 function App() {
 
@@ -18,6 +21,9 @@ function App() {
       <Companies />
       <Residencies />
       <Value/>
+      <Contact/>
+      <GetStarted/>
+      <Footer/>
     </div>
   )
 }
